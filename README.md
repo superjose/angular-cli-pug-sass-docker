@@ -9,7 +9,7 @@ There's a step by step tutorial on [medium](https://medium.com/@josjaviasilis/us
 * Enjoy  😊
 * Supports Webpack Hot Module Reloading via polling. 
 
-# Files that you'd like to pay attention
+# Files that you'd like to pay attention to
 * [Dockerfile](./Dockerfile)
 * [docker-compose.yml](./docker-compose.yml)
 * [ng-add-pug-loader.js](./ng-add-pug-loader.js) (We changed async methods to sync! See [Medium post Step #4](https://medium.com/@josjaviasilis/using-docker-docker-compose-angular-cli-6-sass-and-pug-jade-160896dfd208#0a95))
