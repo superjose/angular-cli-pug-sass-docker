@@ -12,8 +12,9 @@ WORKDIR $NODE_ROOT
 # Copies all the content
 COPY . .
 # Install all the packages
-RUN yarn install
 RUN npm install -g @angular/cli
+RUN yarn install
+
 
 # RUN npm rebuild node-sass --force
 
